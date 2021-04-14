@@ -20,7 +20,7 @@ public class Aluno {
 		this.estado = estado;
 	}
 
-	// construtor com id
+	// construtor sem id
 	public Aluno(String nome, int idade, String estado) {
 		this.nome = nome;
 		this.idade = idade;
@@ -60,6 +60,8 @@ public class Aluno {
 	public void setEstado(String estado) {
 		this.estado = estado;
 	}
+	
+	// toString
 
 	@Override
 	public String toString() {
