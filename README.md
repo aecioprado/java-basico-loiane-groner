@@ -2,7 +2,7 @@
 
 Exercício de JDBC e JPA da Digital Innovation One
 
-#Configuraçãoes
+# Configuraçãoes
 * JDK 14
 * Eclipse IDE 
 * Maven 4.0.0
